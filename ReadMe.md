@@ -1,6 +1,6 @@
 # Tool for checking LIDAR Settings
 
-Maintainer: *Robert Scheffler*
+Maintainer: *bruchpilot123*
 
 Requirements:
 
