@@ -1,6 +1,6 @@
 """
 connection.py
-Maintainer: Robert Scheffler
+Maintainer: bruchpilot123
 Date: 09.04.22
 """
 
